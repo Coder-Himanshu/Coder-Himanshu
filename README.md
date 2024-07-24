@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/h4orhimanshu" target="blank"><img src="https://img.shields.io/twitter/follow/h4orhimanshu?logo=twitter&style=for-the-badge" alt="h4orhimanshu" /></a> </p>
 
-- 🌱 I’m currently learning **React Advance**
-
+- 🌱 I’m currently working in **EmiratesNBD - Dubai**
 - 👨‍💻 All of my projects are available at [https://coder-himanshu.github.io/resume/](https://coder-himanshu.github.io/resume/)
 
 - 📝 I regularly write articles on [https://medium.com/@hs20238](https://medium.com/@hs20238)
